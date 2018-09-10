@@ -1,0 +1,16 @@
+The top 3 most viewed articles are:
+'Candidate is jerk, alleges rival', by the author Rudolf von Treppenwitz with 338647 views
+'Bears love berries, alleges bear', by the author Ursula La Multa with 253801 views
+'Bad things gone, say good people', by the author Anonymous Contributor with 170098 views
+
+
+The most popular authors of all time are:
+Ursula La Multa -- 507594 views
+Rudolf von Treppenwitz -- 423457 views
+Anonymous Contributor -- 170098 views
+Markoff Chaney -- 84557 views
+
+
+The most popular authors of all time are:
+July      17, 2016 -- 2.3% errors
+[Finished in 3.2s]
